@@ -16,7 +16,7 @@ const spam = require("./spam.js");
 
 const level = require("./level.js");
 const rpg = require("./rpg.js");
-const quotes = require("./quotes.js");
+///const quotes = require("./quotes.js");
 
 bot.on('ready', async => {
 console.log("Bot Melucur!" + "\n" + bot.user.tag + "\n" + "Server Count: "  + bot.guilds.size + "\n" + "Cached users: " + bot.users.size + "\n" + "Bot Berhasil Tapi tetap Periksa Aplikasi Termux jika bot mati dan hidupkan ulang!")
